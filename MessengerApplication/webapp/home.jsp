@@ -2,4 +2,4 @@
     pageEncoding="ISO-8859-1"%>
 <a href="login.jsp">login</a>|  
 <a href="logout.jsp">logout</a>|  
-<a href="profile.jsp"> profile</a> 
+<a href="profile.jsp">   profile</a> 
